@@ -18,7 +18,7 @@
 
 
 # 📖 Sobre
-O Lisa de Café da Manhã é um projeto para o processo seletivo da empres MV Sistemas que tem o foco em Saúde sendo um dos seus maiores produto o MVSoul. 
+O Lista de Café da Manhã é um projeto para o processo seletivo da empres MV Sistemas que tem o foco em Saúde sendo um dos seus maiores produto o MVSoul. 
 
 
 <h1>🛠 Tecnologias</h1>
